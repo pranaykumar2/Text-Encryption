@@ -1,6 +1,4 @@
-Certainly! Below is the `README.md` content consolidated into one complete file:
 
-```markdown
 # Encrypt/Decrypt App
 
 Encrypt/Decrypt App is a simple web application for encrypting and decrypting text using AES-256 encryption. It provides a user-friendly interface for encrypting sensitive information securely.
@@ -64,6 +62,5 @@ Contributions are welcome! Please feel free to open a pull request for bug fixes
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
 
-Replace `yourusername` in the repository URL with your actual GitHub username. You can further customize the content to include specific instructions, usage examples, or additional information about your project. Adding screenshots or GIFs can also enhance the visual appeal and provide users with a quick overview of your application.
+
