@@ -1,9 +1,10 @@
-
+```
 # Encrypt/Decrypt App
 
 Encrypt/Decrypt App is a simple web application for encrypting and decrypting text using AES-256 encryption. It provides a user-friendly interface for encrypting sensitive information securely.
 
-![App Preview](./assets/ss1.png)
+![Encryption preview](./assets/ss1.png)
+![Decryption preview](./assets/ss2.png)
 
 ## Features
 
@@ -17,13 +18,13 @@ Encrypt/Decrypt App is a simple web application for encrypting and decrypting te
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/encrypt-decrypt-app.git
+   git clone https://github.com/pranaykumar2/Text-Encryption.git
    ```
 
 2. Install dependencies:
 
    ```bash
-   cd encrypt-decrypt-app
+   cd Text-Encryption
    npm install
    ```
 
@@ -62,5 +63,5 @@ Contributions are welcome! Please feel free to open a pull request for bug fixes
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
+```
 
