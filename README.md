@@ -1,4 +1,4 @@
-```
+
 # Encrypt/Decrypt App
 
 Encrypt/Decrypt App is a simple web application for encrypting and decrypting text using AES-256 encryption. It provides a user-friendly interface for encrypting sensitive information securely.
@@ -63,5 +63,5 @@ Contributions are welcome! Please feel free to open a pull request for bug fixes
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
+
 
